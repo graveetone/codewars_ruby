@@ -1,0 +1,5 @@
+require_relative "../tasks/8kyu_1"
+require_relative "../tasks/8kyu_2"
+require_relative "../tasks/7kyu"
+require_relative "../tasks/6kyu"
+require_relative "../tasks/5kyu"
